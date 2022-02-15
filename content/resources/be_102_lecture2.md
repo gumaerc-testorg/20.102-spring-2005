@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-102-macroepidemiology-be-102-spring-2005/14d3b5e9ed4a640e7f448ac33b2d4f9e_be_102_lecture2.pdf
+file: /media/courses/20-102-macroepidemiology-be-102-spring-2005/14d3b5e9ed4a640e7f448ac33b2d4f9e_be_102_lecture2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: be_102_lecture2.pdf
 uid: 14d3b5e9-ed4a-640e-7f44-8ac33b2d4f9e
