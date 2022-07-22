@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the instructor's perspective on the course
+  and information on meeting times, readings, data analysis, the term paper, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d75f2a92-a3b5-774a-ec83-ea30ef26358f
 ---
@@ -14,7 +18,7 @@ Instructor's Perspective
 
 In brief: this little course is called "macroepidemiology" for lack of a sufficiently comprehensive term for its contents. It is offered for those students who accept the responsibility of self-education. They may benefit from the experience of carefully analyzing what is known about a common disease in the company of other students with shared interests and an instructor for whom such analyses are a self-required responsibility. They will benefit from analyses of widely-held but contested assumptions about genetic and environmental risk factors.
 
-Complete text of Instructor's Perspective ([PDF]({{< baseurl >}}/resources/inst_persp))
+Complete text of Instructor's Perspective ({{% resource_link 44d0b5df-046e-574c-d5a0-7d3be026dd62 "PDF" %}})
 
 Readings
 --------
