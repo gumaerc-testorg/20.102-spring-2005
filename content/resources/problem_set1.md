@@ -6,6 +6,7 @@ file: /courses/20-102-macroepidemiology-be-102-spring-2005/eea24f0ca3cfce87a345b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: problem_set1.pdf
 uid: eea24f0c-a3cf-ce87-a345-b5a0ea998110
 ---
 Homework assignment. The epidemiological data and analysis program found in the Tools page is used extensively in these assignments.
-
