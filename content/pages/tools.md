@@ -10,7 +10,7 @@ uid: 353224f8-5912-24e2-f273-59c0aa56b239
 
 The following tools are used extensively in this course.
 
-1\. [Mortality Databases](http://epidemiology.mit.edu/)
+1\. {{% resource_link "c38edacf-2219-4605-860b-31dfd649c233" "Mortality Databases" %}}
 
 This site, maintained by Professor Thilly, has links to two mortality data sets.
 
@@ -21,6 +21,6 @@ This site, maintained by Professor Thilly, has links to two mortality data sets.
 
 This Java® program supports analysis of age-specific mortality data, such as supplied by the above links.
 
-3\. [Human Gene Mutation Database](http://www.hgmd.org/)
+3\. {{% resource_link "dfc605bc-dfd8-4911-ba9a-4994d0054e54" "Human Gene Mutation Database" %}}
 
 This site, maintained by the Institute of Medical Genetics, Cardiff, presents mutations reported in specific genes for 1945 rare inherited diseases.
