@@ -40,7 +40,7 @@ Introduction: Dimensions of information available to define the unknown causes o
 
 Public health records and estimation of age-specific risk.
 
-1\. Introduction to birth cohort and age specific mortality and incidence data sets (see [Mortality Data](http://epidemiology.mit.edu/)).
+1\. Introduction to birth cohort and age specific mortality and incidence data sets (see {{% resource_link "c38edacf-2219-4605-860b-31dfd649c233" "Mortality Data" %}}).
 
 (a) Accuracy of the public record for mortality (MIT) and incidence (SEER) data   
 (b) Accuracy of the U.S. census data.   
@@ -248,7 +248,7 @@ Population Genetics
 
 Population Genetics (cont.)
 
-1. Allelic distributions and expected frequencies (see the [Human Gene Mutation Database](http://www.hgmd.org/))
+1. Allelic distributions and expected frequencies (see the {{% resource_link "dfc605bc-dfd8-4911-ba9a-4994d0054e54" "Human Gene Mutation Database" %}})
 
 2. Generation of multiallelic risk by gametogenic mutations: mutational spectra.
 

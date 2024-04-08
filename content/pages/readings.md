@@ -15,7 +15,7 @@ Public Health Records and Analysis
 
 ### Annual Cancer Deaths and Population Sizes as a Function of Age in the United States (1890-1997) and Japan (1952-1995).
 
-[Prof. Thilly's Mortality Data Page](http://epidemiology.mit.edu/)
+{{% resource_link "c38edacf-2219-4605-860b-31dfd649c233" "Prof. Thilly's Mortality Data Page" %}}
 
 ### Attempts to Fit Cancer Cascade Models to Age-specific Cancer Rates
 
@@ -144,7 +144,7 @@ Temin, H. M. "The Protovirus Hypothesis: Speculations on the Significance of RNA
 
 Mitelman, F., B. Johansson, and F. Mertens. _Catalog of Chromosome Aberrations in Cancer_. 5th ed. CD-ROM version with annual updates. New York: Wiley, 1998.
 
-Anonymous. [_Mitelman Database of Chromosome Aberrations in Cancer_](http://cgap.nci.nih.gov/Chromosomes/Mitelman). Edited by F. Mitelman, B. Johansson, F. Mertens. 2002.
+Anonymous. {{% resource_link "a287990c-53cb-4fa5-b238-fecfe41d7265" "_Mitelman Database of Chromosome Aberrations in Cancer_" %}}. Edited by F. Mitelman, B. Johansson, F. Mertens. 2002.
 
 ### Retinoblastoma, Other Familial Early Onset Cancer Syndromes and the "Two Allele Inactivation" Model of Initiation
 
