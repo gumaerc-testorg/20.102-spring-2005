@@ -2,7 +2,7 @@
 content_type: resource
 description: Optional homework assignment. The epidemiological data and analysis program
   found in the Tools page is used extensively in these assignments.
-file: /courses/20-102-macroepidemiology-be-102-spring-2005/ef5934d17994e067854e14fb520c545d_problem_set2.pdf
+file: /ol-ocw-studio-app/courses/20-102-macroepidemiology-be-102-spring-2005/ef5934d17994e067854e14fb520c545d_problem_set2.pdf
 file_size: 9130
 file_type: application/pdf
 learning_resource_types:
