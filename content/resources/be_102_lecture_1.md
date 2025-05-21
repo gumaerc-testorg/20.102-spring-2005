@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/20-102-macroepidemiology-be-102-spring-2005/cc0550dca8acefb4b7c861cbc617f432_be_102_lecture_1.pdf
+file: /courses/20-102-macroepidemiology-be-102-spring-2005/cc0550dca8acefb4b7c861cbc617f432_be_102_lecture_1.pdf
 file_size: 1347565
 file_type: application/pdf
 learning_resource_types:

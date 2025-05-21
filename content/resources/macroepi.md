@@ -6,7 +6,7 @@ description: Term paper assignment. Each student chooses a common disease such a
   with material from class that uses colon and lung cancer as principle examples.
   A "chapter" would be on the order of four-five pages of discussion of the key facts
   about the chosen disease.
-file: /ol-ocw-studio-app/courses/20-102-macroepidemiology-be-102-spring-2005/463ef47b626f6c3c3e9ec2b255871b7b_macroepi.pdf
+file: /courses/20-102-macroepidemiology-be-102-spring-2005/463ef47b626f6c3c3e9ec2b255871b7b_macroepi.pdf
 file_size: 19715
 file_type: application/pdf
 learning_resource_types:
