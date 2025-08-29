@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-102-macroepidemiology-be-102-spring-2005/b42b4e1fd8503d2aa70b95d79ce59ead_CancerFit3_7.jar
+file: /ol-ocw-studio-app/courses/20-102-macroepidemiology-be-102-spring-2005/b42b4e1fd8503d2aa70b95d79ce59ead_CancerFit3_7.jar
 file_size: 212923
 file_type: application/zip
 learning_resource_types:
